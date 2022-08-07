@@ -1,54 +1,17 @@
 body, .theme-dark, .theme-light {
     --background-primary: #242424;
-    --background-secondary: #202225;
-    /* --background-secondary-alt: #252526; */
+    --background-secondary: #252526;
     --background-tertiary: #333333;
-    /*--background-accent: #252526;
-    --background-text-area: #403c3c;
-    --background-floating: #403c3c;
-    --background-modifier-selected: rgba(12,12,12,0.6);
-    --background-modifier-active: rgba(12,12,12,0.4);
-    --background-modifier-hover: rgba(12,12,12,0.3);
-    --scrollbar-auto-track: #403c3c;
-    --scrollbar-auto-thumb: rgb(12,12,12);
-    --container-hover: rgb(15,15,15);
-    --container-active: rgb(15,15,15);
-    --container-avatar: rgb(18,18,18);
-    --layout-selected: rgba(79, 84, 92, 0.32);
-    --searchBar-hover: rgb(15,15,15);
-    --searchBar-open: rgb(18,18,18); */
-    /* --scroller: #252526; */
-    /* --spoilerText: rgb(12,12,12);
-    --spoilerText-hover: rgb(15,15,15);
-    --uploadModal: #252526;
-    --footer: #252526;
-    --selected-hover: rgb(18,18,18);
-    --selected-active: rgb(18,18,18);
-    --expandedFolder: #252526;
-    --closedFolder: #252526;
-    --closedFolderIconWrapper: #252526;
-    --peopleList: #252526;
-    --expandedFolderIcon: #252526;
-    --expandedFolderIconWrapper-hover: #403c3c;
-    --body-footer: #252526;*/
-    /* --headerTop: #007acc; */
-    /* --toast-background: #007acc; 
-    --toast-header: #007acc;
-    --toast-contents: #007acc; */
-    /* --toast-box-shadow: rgba(0, 0, 0, .2);
-    --interactive-muted: rgb(15,15,15);
-    --background-modifier-accent: rgb(15,15,15);
-    --text-muted: rgb(120,120,120); */
-    /*--header-secondary: rgb(200,200,200);
-    --text-normal: rgb(255,255,255); */
 }
 
-/* Change the window bar to blue */
-.titleBar-1it3bQ {
+.container-ZMc96U.themed-Hp1KC_ {
     background-color: #007acc;
 }
 
-/* Change the menu bar to the right color */
-.scroller-1ox3I2 {
-    background-color: #252526;
+.theme-dark .children-3xh0VB::after {
+    background: none;
+}
+
+.theme-light .children-3xh0VB::after {
+    background: none;
 }
