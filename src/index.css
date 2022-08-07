@@ -1,7 +1,7 @@
 body, .theme-dark, .theme-light {
     --background-primary: #242424;
     --background-secondary: #202225;
-    --background-secondary-alt: #252526;
+    /* --background-secondary-alt: #252526; */
     --background-tertiary: #333333;
     /*--background-accent: #252526;
     --background-text-area: #403c3c;
@@ -32,9 +32,9 @@ body, .theme-dark, .theme-light {
     --expandedFolderIconWrapper-hover: #403c3c;
     --body-footer: #252526;*/
     /* --headerTop: #007acc; */
-    --toast-background: #007acc; 
+    /* --toast-background: #007acc; 
     --toast-header: #007acc;
-    --toast-contents: #007acc;
+    --toast-contents: #007acc; */
     /* --toast-box-shadow: rgba(0, 0, 0, .2);
     --interactive-muted: rgb(15,15,15);
     --background-modifier-accent: rgb(15,15,15);
