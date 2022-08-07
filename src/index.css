@@ -2,6 +2,11 @@ body, .theme-dark, .theme-light {
     --background-primary: #242424;
     --background-secondary: #252526;
     --background-tertiary: #333333;
+    --channel-icon: #fff;
+    --interactive-normal: #fff;
+    --channels-default: #cccccc;
+    --scrollbar-thin-track: #252526;
+    --scrollbar-thin-thumb: #515151;
 }
 
 .container-ZMc96U.themed-Hp1KC_ {
