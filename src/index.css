@@ -17,7 +17,7 @@ body, .theme-dark, .theme-light {
     --layout-selected: rgba(79, 84, 92, 0.32);
     --searchBar-hover: rgb(15,15,15);
     --searchBar-open: rgb(18,18,18); */
-    --scroller: #252526;
+    /* --scroller: #252526; */
     /* --spoilerText: rgb(12,12,12);
     --spoilerText-hover: rgb(15,15,15);
     --uploadModal: #252526;
@@ -48,6 +48,7 @@ body, .theme-dark, .theme-light {
     background-color: #007acc;
 }
 
+/* Change the menu bar to the right color */
 .scroller-1ox3I2 {
-    background-color: #202225;
+    background-color: #252526;
 }
