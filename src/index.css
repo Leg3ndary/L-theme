@@ -31,7 +31,7 @@ body, .theme-dark, .theme-light {
     --expandedFolderIcon: #252526;
     --expandedFolderIconWrapper-hover: #403c3c;
     --body-footer: #252526;*/
-    --headerTop: #007acc;
+    /* --headerTop: #007acc; */
     --toast-background: #007acc; 
     --toast-header: #007acc;
     --toast-contents: #007acc;
@@ -39,7 +39,7 @@ body, .theme-dark, .theme-light {
     --interactive-muted: rgb(15,15,15);
     --background-modifier-accent: rgb(15,15,15);
     --text-muted: rgb(120,120,120); */
-    --header-primary: #007acc;
+    /* --header-primary: #007acc; */
     /*--header-secondary: rgb(200,200,200);
     --text-normal: rgb(255,255,255); */
 }
