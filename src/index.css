@@ -7,6 +7,11 @@ body, .theme-dark, .theme-light {
     --channels-default: #cccccc;
     --scrollbar-thin-track: #252526;
     --scrollbar-thin-thumb: #515151;
+    --brand-experiment: #007acc;
+    --header-secondary: #cccccc;
+    --background-modifier-selected: #007acc;
+    --background-modifier-hover: #3395d6;
+    --background-modifier-active: #0062a3;
 }
 
 .container-ZMc96U.themed-Hp1KC_ {
@@ -20,3 +25,11 @@ body, .theme-dark, .theme-light {
 .theme-light .children-3xh0VB::after {
     background: none;
 }
+
+.expandedFolderBackground-1kSAf6 {
+    background-color: #3c3c3c;
+}
+
+/* #68217a purple */
+/* #cc6633 yellow */
+/* #007acc blue */ 
