@@ -6,4 +6,6 @@ Install:
 
 ```
 cd replugged/src/Powercord/themes && git clone https://github.com/Leg3ndary/L-theme
+
+cd replugged/src/Powercord/themes && git pull
 ```
