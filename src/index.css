@@ -46,5 +46,5 @@ body, .theme-dark, .theme-light {
 
 /* Change the window bar to blue */
 .typeWindows-2-g3UY .withFrame-2dL45i .titleBar-1it3bQ .horizontalReverse-2QssvL .flex-3BkGQD .directionRowReverse-HZatnx .justifyStart-2Mwniq .alignStretch-Uwowzr {
-    color: #007acc;
+    background-color: #007acc;
 }
