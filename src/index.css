@@ -1,9 +1,9 @@
 body, .theme-dark, .theme-light {
     --background-primary: #242424;
-    /* --background-secondary: #252526;
-    --background-secondary-alt: #252526;
-    --background-tertiary: #252526;
-    --background-accent: #252526;
+    --background-secondary: #202225;
+    /* --background-secondary-alt: #252526; */
+    --background-tertiary: #333333;
+    /*--background-accent: #252526;
     --background-text-area: #403c3c;
     --background-floating: #403c3c;
     --background-modifier-selected: rgba(12,12,12,0.6);
