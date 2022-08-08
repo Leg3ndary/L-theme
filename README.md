@@ -2,6 +2,8 @@
 
 **Install:**
 
+You should just use the built in downloader from replugged, but this also technically works.
+
 ```bash
 cd replugged/src/Powercord/themes && git clone https://github.com/Leg3ndary/Monokai-Dark-Soda
 ```
