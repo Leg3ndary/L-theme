@@ -212,3 +212,58 @@
     --font-chinese-traditional: Whitney, "Microsoft JhengHei", 微軟正黑體, "Microsoft JhengHei UI",
         "Microsoft YaHei", 微軟雅黑, 宋体, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+body, .theme-dark, .theme-light {
+    --background-primary: #242424;
+    --background-secondary: #252526;
+    --background-tertiary: #333333;
+    --channel-icon: #fff;
+    --interactive-normal: #fff;
+    --channels-default: #cccccc;
+    --scrollbar-thin-track: #252526;
+    --scrollbar-thin-thumb: #515151;
+    --brand-experiment: #F92672;
+    --header-secondary: #cccccc;
+    --background-modifier-selected: #403d3d;
+    --background-modifier-hover: #666464;
+    --background-modifier-active: #333131;
+  	--channeltextarea-background: #333333;
+    --interactive-muted: #333333;
+    --interactive-active: #fff;
+}
+
+.container-ZMc96U.themed-Hp1KC_ {
+    background-color: #007acc;
+}
+
+.theme-dark .children-3xh0VB::after {
+    background: none;
+}
+
+.theme-light .children-3xh0VB::after {
+    background: none;
+}
+
+.expandedFolderBackground-1kSAf6 {
+    background-color: #3c3c3c;
+}
+
+/* Remove the ugly bar */
+.thin-31rlnD::-webkit-scrollbar-track {
+    background-color: transparent;
+    border: transparent;
+}
+
+/* Change code block colors */
+.markup-eYLPri code {
+    background-color: #323232;
+}
+
+/* Change friends list */
+.theme-dark .container-2cd8Mz {
+	background-color: #242424;
+}
+
+.parentChannelName-R4UlaT {
+    color: #fff;
+}
