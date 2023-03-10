@@ -199,21 +199,23 @@
     --font-primary: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-display: "ABC Ginto Normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-headline: "ABC Ginto Nord", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter",
-        "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,
-        "Courier New", Courier, monospace;
+    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
+        "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono",
+        "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
     --font-korean: Whitney, "Apple SD Gothic Neo", NanumBarunGothic, "\B9D1\C740 \ACE0\B515",
         "Malgun Gothic", Gulim, 굴림, Dotum, 돋움, "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-japanese: Whitney, "Hiragino Sans", "\30D2\30E9\30AE\30CE\89D2\30B4 ProN W3",
-        "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica,
-        Arial, sans-serif;
+        "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, Osaka, "MS PGothic", "Helvetica Neue",
+        Helvetica, Arial, sans-serif;
     --font-chinese-simplified: Whitney, "Microsoft YaHei New", 微软雅黑, "Microsoft Yahei",
         "Microsoft JhengHei", 宋体, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
     --font-chinese-traditional: Whitney, "Microsoft JhengHei", 微軟正黑體, "Microsoft JhengHei UI",
         "Microsoft YaHei", 微軟雅黑, 宋体, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-body, .theme-dark, .theme-light {
+body,
+.theme-dark,
+.theme-light {
     --background-primary: #242424;
     --background-secondary: #252526;
     --background-tertiary: #333333;
@@ -222,12 +224,12 @@ body, .theme-dark, .theme-light {
     --channels-default: #cccccc;
     --scrollbar-thin-track: #252526;
     --scrollbar-thin-thumb: #515151;
-    --brand-experiment: #F92672;
+    --brand-experiment: #f92672;
     --header-secondary: #cccccc;
     --background-modifier-selected: #403d3d;
     --background-modifier-hover: #666464;
     --background-modifier-active: #333131;
-  	--channeltextarea-background: #333333;
+    --channeltextarea-background: #333333;
     --interactive-muted: #333333;
     --interactive-active: #fff;
 }
@@ -261,7 +263,7 @@ body, .theme-dark, .theme-light {
 
 /* Change friends list */
 .theme-dark .container-2cd8Mz {
-	background-color: #242424;
+    background-color: #242424;
 }
 
 .parentChannelName-R4UlaT {

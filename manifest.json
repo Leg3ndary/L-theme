@@ -12,7 +12,7 @@
         "type": "github",
         "id": "Leg3ndary/Monokai-Dark-Soda"
     },
-        "license": "MIT",
-        "type": "replugged-theme",
-        "main": "src/main.css"
-  }
+    "license": "MIT",
+    "type": "replugged-theme",
+    "main": "src/main.css"
+}

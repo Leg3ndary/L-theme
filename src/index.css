@@ -1,4 +1,6 @@
-body, .theme-dark, .theme-light {
+body,
+.theme-dark,
+.theme-light {
     --background-primary: #242424;
     --background-secondary: #252526;
     --background-tertiary: #333333;
@@ -7,12 +9,12 @@ body, .theme-dark, .theme-light {
     --channels-default: #cccccc;
     --scrollbar-thin-track: #252526;
     --scrollbar-thin-thumb: #515151;
-    --brand-experiment: #F92672;
+    --brand-experiment: #f92672;
     --header-secondary: #cccccc;
     --background-modifier-selected: #403d3d;
     --background-modifier-hover: #666464;
     --background-modifier-active: #333131;
-  	--channeltextarea-background: #333333;
+    --channeltextarea-background: #333333;
     --interactive-muted: #333333;
     --interactive-active: #fff;
 }
@@ -46,7 +48,7 @@ body, .theme-dark, .theme-light {
 
 /* Change friends list */
 .theme-dark .container-2cd8Mz {
-	background-color: #242424;
+    background-color: #242424;
 }
 
 .parentChannelName-R4UlaT {
