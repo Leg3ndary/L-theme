@@ -1,12 +1,10 @@
 # Monokai-Dark-Soda
 
+I've updated the theme so it works with the rewrite of replugged.
+
 **Install:**
 
-You should just use the built in downloader from replugged, but this also technically works.
-
-```bash
-cd replugged/src/Powercord/themes && git clone https://github.com/Leg3ndary/Monokai-Dark-Soda
-```
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=leg3ndary/Monokai-Dark-Soda&source=github)
 
 This theme is based on Monokai-Dark-Soda for visual code studio, linked [here](https://marketplace.visualstudio.com/items?itemName=AdamCaviness.theme-monokai-dark-soda).
 
